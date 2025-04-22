@@ -1,3 +1,4 @@
-# roles/requirements.yml
-- src: username.role_name
-  version: 1.0.0
+---
+collections:
+- pureport.fabric
+
